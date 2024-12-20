@@ -1,0 +1,7 @@
+# editors
+.venv
+.idea
+
+# misc
+log.yml
+result.yml
